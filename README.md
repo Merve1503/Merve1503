@@ -4,7 +4,7 @@
 - 💞️ I'm looking to collaborate with people who do UI testing.
 - 📫 How to reach me at mervekartal07@gmail.com
 - 😄 Pronouns: Her
-- ⚡ Fun fact: After shattering the perception that women cannot be mechanical engineers, I am here to support my fellow women in breaking the stereotype that women are inadequate in software development."
+- ⚡ Fun fact: After shattering the perception that women cannot be mechanical engineers, I am here to support my fellow women in breaking the stereotype that women are inadequate in software development. :)
 
 <!---
 Merve1503/Merve1503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
